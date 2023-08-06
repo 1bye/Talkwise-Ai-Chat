@@ -27,3 +27,5 @@ Thank you!
 - [Link to Talkwise](https://chat.nouro.app/login)
 - [Link to Docs](https://docs.nouro.app/)
 - [Link to Discord](https://discord.com/invite/WQBfce8K5f)
+
+  ![222](https://img.shields.io/badge/Alpha-v0.1-blue)
